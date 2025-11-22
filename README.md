@@ -10,13 +10,6 @@ Comprehensive Reporting:- 1. Calculates and displays a Category Spending Table s
                           3. Calculates Monthly Trends for both expenses and income.
 Data Visualization: Automatically generates two types of charts (Usability NFR):  A Bar Chart showing total spending by category.
 
-Type	                              |          Technology/Tool	      |              Purpose
-Language	                          |             Python 3+	          |  Core programming language
-Data Analysis	                      |             Pandas	            |  Data loading, manipulation, aggregation (groupby, resample), and CSV handling
-Numerical/Statistics	              |             NumPy	              |  High-performance, vectorized calculation of summary statistics (mean, median, std. dev.)
-Visualization	                      |             Matplotlib	        |  Generating bar charts and line charts for reports
-File Handling	                      |             os module	          |  Managing the data directory and file paths
-Save the Code: Save the provided code into a file named, for example, main_app.py.
 
 Install Dependencies: The project requires Pandas, NumPy, and Matplotlib. Open your terminal or command prompt and run:
 pip install pandas numpy matplotlib
