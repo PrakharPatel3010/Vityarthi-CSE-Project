@@ -1,5 +1,5 @@
 # vityarthi-cseproject-
-Overview of the Project
+Overview of the Project:
 The Modular Expense Analyzer System is a financial tracking tool that manages user financial data (expenses and income) in a CSV file. It provides a simple, menu-driven command-line interface for data entry and offers powerful analytical capabilities using Pandas and NumPy for calculations and Matplotlib for generating visualizations (charts). A key feature is its ability to handle data in Rupees (Rs) and separate expenses (negative amounts) from income (positive amounts) for accurate trend analysis.
 
 Features:-  The system offers the following core functionalities:
